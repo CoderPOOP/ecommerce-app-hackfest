@@ -1,8 +1,28 @@
-# Getting Started with Create React App
+## iTech
+iTech is the eCommerce website we built for the HackFest Hackathon. Sounds good right? Let's see what it is and how it started by who!
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![Landing Page](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/o6uuv64kzon3avk3w961.jpeg)
 
-## Available Scripts
+## What exactly is iTech?
+iTech is an eCommerce Web App that helps users to shop only tech related items that only come from the bestsellers.
+
+## Who built this?
+iTech is built by a team of 3 members named "Fantastic Frontend", they include
+- Arjun Vijay Prakash(Leader + Full-Stack Dev)
+- Agrim Singh(Designer + HTML/CSS Dev)
+- Pratyush Yadav(Designer + HTML/CSS Dev)
+
+## How old are we?
+We are in Middle School aged 11-13 years old.
+
+![Fantastic Frontend](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qxdjbp0mkazksna0uq6o.jpeg)
+
+## Tech Stack
+iTech is built with ReactJS, TailwindCSS and Firebase Authentication.
+
+----------------------------------------------------------------------------------------------------
+
+## React Scripts
 
 In the project directory, you can run:
 
@@ -23,48 +43,3 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 
 Builds the app for production to the `build` folder.\
 It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
